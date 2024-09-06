@@ -1,4 +1,4 @@
-package SistemaGeral.Sistema;
+package SistemaGeral;
 
 import SistemaGeral.Internet.NavegarInternet;
 import SistemaGeral.Musica.ReprodutorMusical;

@@ -1,6 +1,6 @@
 package Celular;
 
-import SistemaGeral.Sistema.SistemaCelular;
+import SistemaGeral.SistemaCelular;
 
 public class Aparelho {
     public static void main(String[] args) {
